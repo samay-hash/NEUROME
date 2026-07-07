@@ -4,8 +4,9 @@
 
 <br />
 
-# NEUROME
-### A Gen Z "Emotional Comfort + Identity" Platform
+<p align="center">
+  <img src="neurome-title.svg" alt="NEUROME: A Gen Z Emotional Comfort + Identity Platform" width="800" />
+</p>
 
 > *“A place to land when your mind is too loud.”*  
 > *“Your mood has a room here.”*  
