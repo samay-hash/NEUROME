@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="animated-hero.svg" alt="Neurome Banner" width="100%" />
+</div>
+
+<br />
+
 # NEUROME
 ### A Gen Z "Emotional Comfort + Identity" Platform
 
