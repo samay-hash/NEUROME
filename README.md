@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="animated-hero.svg" alt="Neurome Banner" width="100%" />
-</div>
+<p align="center">
+  <img src="profileee.png" alt="Neurome Profile" width="100%" />
+</p>
 
 <br />
 
