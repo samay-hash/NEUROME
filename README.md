@@ -5,6 +5,15 @@
 <br />
 
 <p align="center">
+  <a href="https://github.com/samay-hash/NEUROME/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
+  </a>
+  <a href="https://github.com/samay-hash/NEUROME/blob/main/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome">
+  </a>
+</p>
+
+<p align="center">
   <img src="neurome-title.svg" alt="NEUROME: A Gen Z Emotional Comfort + Identity Platform" width="800" />
 </p>
 
@@ -185,3 +194,15 @@ Because Neurome targets emotionally vulnerable users:
 The core problem is real and backed by data. The market timing is perfect, and the differentiation angle (identity + mood personalization) is a genuine white space. 
 
 By narrowing the scope (2 rooms, 2 universes, 4 tools), proving retention first, and layering trust-heavy community features *only* after proper moderation infrastructure is built, **Neurome** transforms from a risky, feature-bloated concept into a highly disciplined, scalable, and investor-ready startup.
+
+---
+
+## 17. 🤝 Open Source & Contributing
+Neurome is proudly **Open Source**. We believe that building emotional comfort tools should be a transparent and community-driven effort. 
+
+- **Want to contribute?** Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started with the local setup (Frontend & Backend).
+- **Found a bug or have an idea?** Open an issue using our [Issue Templates](.github/ISSUE_TEMPLATE/).
+- Please make sure to read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
